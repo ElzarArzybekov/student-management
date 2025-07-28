@@ -71,4 +71,4 @@ I’m highly motivated, self-taught, and ready to grow in a real team!
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/ElzarArzybekov](https://github.com/ElzarArzybekov)
+- GitHub: [https://github.com/ElzarArzybekov](https://github.com/ElzarArzybekov/student-management-system.git)
