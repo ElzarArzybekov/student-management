@@ -31,9 +31,6 @@ src/
 
 java
 URL      = jdbc:postgresql://localhost:5432/StudentManagmentSystem  
-USER     = postgres  
-PASSWORD = 321123213
-
 
 > Note: The database name has a small typo ("Managment" instead of "Management") — kept as-is to match the local setup.
 
